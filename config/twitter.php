@@ -9,11 +9,11 @@ return [
     'upload_url' => 'upload.twitter.com',
     'api_version' => env('TWITTER_API_VERSION', '1.1'),
 
-    'consumer_key' => 'pRRnH28ipN4WlWhatKPawZArv',
-    'consumer_secret' => 'XKTmI3WToskluhtEp9ovpwRnNBrtjo6jphBzA9QlwYp288e3eD',
-    'access_token' => '178168117-JzXmGl1M0Az7BewOY0uvu0MxBlN1BkHxeX7U6P5H',
-    'access_token_secret' => 'biWJgDKifLsrqtaOmAQxF74TsEf0z6qv64IXzRNphzrXC',
-    'bearer_token' => 'AAAAAAAAAAAAAAAAAAAAAHugdAEAAAAAeHtHZjth2bVZDCo85uiDxNvFOVc%3D1VC0ZLMCcLsOYeSZ1BY6PmaXVRspDGx3ytstjnEMdriJv1KYAL',
+    'consumer_key' => '*************',
+    'consumer_secret' => '*************',
+    'access_token' => '*************',
+    'access_token_secret' => '*************',
+    'bearer_token' => '*************',
 
 
     'authenticate_url' => 'https://api.twitter.com/oauth/authenticate',
